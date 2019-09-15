@@ -168,7 +168,7 @@ func TestReverse(t *testing.T) {
 
 ### 快排实验分享码
 
-[](http://139.9.57.167:20080/share/blurbmmd0lit3phfpeu0?secret=false)
+[http://139.9.57.167:20080/share/blurbmmd0lit3phfpeu0?secret=false]()
 
 
 

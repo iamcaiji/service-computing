@@ -84,5 +84,5 @@ $ ./selpg -h
 
 大概的测试就是这样。
 
-### [代码](www.baidu.com)
+### [代码](https://github.com/iamcaiji/service-computing/tree/master/hw4)
 
